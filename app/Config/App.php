@@ -23,7 +23,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost/ci-4/';
+	public $baseURL = 'http://localhost/codeigniter4-create-read-master/';
 
 	/*
 	|--------------------------------------------------------------------------
